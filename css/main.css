@@ -73,7 +73,7 @@ section {display: flex;}
 
 .search-box {
     width: 330px;
-    height: 330px;
+    height: 30px;
     padding: 6px 12px;
     border: 1px #a0a0a0;
 }
@@ -109,7 +109,7 @@ section {display: flex;}
     color: #364147;
 }
 
-.account li {
+.account a {
     font-size: 14px;
 }
 
