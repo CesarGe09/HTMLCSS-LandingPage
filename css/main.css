@@ -208,7 +208,8 @@ section {display: flex;}
     position: relative;
 }
 
-.full-banner::before::content {
+.full-banner:before {
+    content: "";
     position: absolute;
     border: 1px solid #ffffff;
     top: 30px;
